@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Videos de performances de live coding</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Videos de performances de live coding</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 14 Feb 2025 05:19:29 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foxdot</title>
+      <link>http://localhost:1313/posts/foxdot/</link>
+      <pubDate>Fri, 14 Feb 2025 05:19:29 +0100</pubDate>
+      <guid>http://localhost:1313/posts/foxdot/</guid>
+      <description>&lt;h2 id=&#34;improvisaciones-con-foxdotrenardo&#34;&gt;Improvisaciones con FoxDot/Renardo&lt;/h2&gt;&#xA;&lt;h3 id=&#34;improvisación-por-ryan-kikbride&#34;&gt;Improvisación por Ryan Kikbride&lt;/h3&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;http://localhost:1313/videos/VideoFoxDot.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;d1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt; play(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;x&amp;#34;&lt;/span&gt;, dur &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;ø---live-coding-with-foxdot-and-supercollider&#34;&gt;&amp;ldquo;Ø&amp;rdquo; - Live Coding with FoxDot and SuperCollider&lt;/h3&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;http://localhost:1313/videos/VideoFoxDot2.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>Sonic Pi</title>
+      <link>http://localhost:1313/posts/sonic-pi/</link>
+      <pubDate>Fri, 14 Feb 2025 05:19:29 +0100</pubDate>
+      <guid>http://localhost:1313/posts/sonic-pi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SuperCollider</title>
+      <link>http://localhost:1313/posts/supercollider/</link>
+      <pubDate>Fri, 14 Feb 2025 05:19:29 +0100</pubDate>
+      <guid>http://localhost:1313/posts/supercollider/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TidalCycles</title>
+      <link>http://localhost:1313/posts/tidalcycles/</link>
+      <pubDate>Fri, 14 Feb 2025 05:19:29 +0100</pubDate>
+      <guid>http://localhost:1313/posts/tidalcycles/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
