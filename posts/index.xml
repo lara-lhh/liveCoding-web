@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Videos de performances de live coding</title>
+    <link>https://tusitio.com/posts/</link>
+    <description>Recent content in Posts on Videos de performances de live coding</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 16 Feb 2025 20:19:11 +0100</lastBuildDate>
+    <atom:link href="https://tusitio.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MaxMSP</title>
+      <link>https://tusitio.com/posts/maxmsp/</link>
+      <pubDate>Sun, 16 Feb 2025 20:19:11 +0100</pubDate>
+      <guid>https://tusitio.com/posts/maxmsp/</guid>
+      <description>&lt;h2 id=&#34;improvisaciones-con-maxmsp&#34;&gt;Improvisaciones con Max/MSP&lt;/h2&gt;&#xA;&lt;h3 id=&#34;max-msp-little-glitch-machine-live-coding-version&#34;&gt;Max MSP: Little Glitch Machine (Live Coding Version)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6P4Ezz9aWa8&#34;&gt;Enlace al vídeo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://res.cloudinary.com/dfcyzdul7/video/upload/v1739888225/maxmsp_nh5qbw.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>Gibber</title>
+      <link>https://tusitio.com/posts/gibber/</link>
+      <pubDate>Sun, 16 Feb 2025 13:18:00 +0100</pubDate>
+      <guid>https://tusitio.com/posts/gibber/</guid>
+      <description>&lt;h2 id=&#34;improvisaciones-con-gibber&#34;&gt;Improvisaciones con Gibber&lt;/h2&gt;&#xA;&lt;h4 id=&#34;famle-global-scope-gibber-excerpts&#34;&gt;FaMLE Global Scope Gibber excerpts&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=H7pm_y8cSmA&amp;amp;t=11s&#34;&gt;Enlace al vídeo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://res.cloudinary.com/dfcyzdul7/video/upload/v1739880268/VideoGibber_dzya9u.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;&#xA;&lt;h4 id=&#34;groovy-caj-by-ensemble-members-utrgv-new-music-ensemble&#34;&gt;&amp;ldquo;Groovy CAJ&amp;rdquo; by ensemble members (UTRGV New Music Ensemble)&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Fzk1oDrby5Q&#34;&gt;Enlace al vídeo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://tusitio.com/videos/VideoGibber1.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;&#xA;&lt;h4 id=&#34;music-from-code---gibber-in-google-chrome&#34;&gt;Music from code - Gibber in Google Chrome&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uly7DgtfRKI&amp;amp;t=151s&#34;&gt;Enlace al vídeo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://res.cloudinary.com/dfcyzdul7/video/upload/v1739880800/VideGibber3_thleik.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>Foxdot</title>
+      <link>https://tusitio.com/posts/foxdot/</link>
+      <pubDate>Fri, 14 Feb 2025 05:19:29 +0100</pubDate>
+      <guid>https://tusitio.com/posts/foxdot/</guid>
+      <description>&lt;h2 id=&#34;improvisaciones-con-foxdotrenardo&#34;&gt;Improvisaciones con FoxDot/Renardo&lt;/h2&gt;&#xA;&lt;h4 id=&#34;improvisación-por-ryan-kikbride&#34;&gt;Improvisación por Ryan Kikbride&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CXrkq7u69vU&amp;amp;t=147s&#34;&gt;Enlace al vídeo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://res.cloudinary.com/dfcyzdul7/video/upload/v1739881006/VideoFoxDot_lzf67g.mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;d1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt; play(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;x&amp;#34;&lt;/span&gt;, dur &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;foxdot-music-improvisation-with-crt-live-coding&#34;&gt;FoxDot music improvisation with crt-live-coding&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_8ITuKIi_Is&#34;&gt;Enlace al video&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://res.cloudinary.com/dfcyzdul7/video/upload/v1739881032/VideoFoxDot2_asvuty.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;&#xA;&lt;h4 id=&#34;ø---live-coding-with-foxdot-and-supercollider&#34;&gt;&amp;ldquo;Ø&amp;rdquo; - Live Coding with FoxDot and SuperCollider&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=icexb707D3Y&amp;amp;t=893s&#34;&gt;Enlace al video&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://res.cloudinary.com/dfcyzdul7/video/upload/v1739881365/VideoFoxDot3_yh88ce.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>Sonic Pi</title>
+      <link>https://tusitio.com/posts/sonic-pi/</link>
+      <pubDate>Fri, 14 Feb 2025 05:19:29 +0100</pubDate>
+      <guid>https://tusitio.com/posts/sonic-pi/</guid>
+      <description>&lt;h2 id=&#34;improvisaciones-con-sonic-pi&#34;&gt;Improvisaciones con Sonic Pi&lt;/h2&gt;&#xA;&lt;h4 id=&#34;sam-aaron-live-coding-an-ambient-electro-set-w-sonic-pi&#34;&gt;Sam Aaron live coding an ambient electro set w/ Sonic Pi&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=G1m0aX9Lpts&amp;amp;t=565s&#34;&gt;Enlace al vídeo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://tusitio.com/videos/VideoSonicPi.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;&#xA;&lt;h4 id=&#34;dj_dave---easy-live-coded-for-oatly&#34;&gt;DJ_Dave - Easy Live Coded for Oatly&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YvsoWehBbec&#34;&gt;Enlace al vídeo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://tusitio.com/videos/VideoSonicPi2.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>SuperCollider</title>
+      <link>https://tusitio.com/posts/supercollider/</link>
+      <pubDate>Fri, 14 Feb 2025 05:19:29 +0100</pubDate>
+      <guid>https://tusitio.com/posts/supercollider/</guid>
+      <description>&lt;h2 id=&#34;improvisaciones-con-supercollider&#34;&gt;Improvisaciones con SuperCollider&lt;/h2&gt;&#xA;&lt;h4 id=&#34;g4ll62us---live-coded-with-supercollider&#34;&gt;g4LL62uS - live coded with SuperCollider&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BtmlH9U_9Nk&amp;amp;t=176s&#34;&gt;Enlace al vídeo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://res.cloudinary.com/dfcyzdul7/video/upload/v1739881143/VideoSupercollider_ui93z6.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;&#xA;&lt;h4 id=&#34;supercollider-livecoding&#34;&gt;SuperCollider LiveCoding&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=P9QaPtrPJbs&#34;&gt;Enlace al vídeo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://res.cloudinary.com/dfcyzdul7/video/upload/v1739882722/supercollider1_f1rrqq.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>TidalCycles</title>
+      <link>https://tusitio.com/posts/tidalcycles/</link>
+      <pubDate>Fri, 14 Feb 2025 05:19:29 +0100</pubDate>
+      <guid>https://tusitio.com/posts/tidalcycles/</guid>
+      <description>&lt;h2 id=&#34;improvisaciones-con-tidalcycles&#34;&gt;Improvisaciones con TidalCycles&lt;/h2&gt;&#xA;&lt;h4 id=&#34;25midi-live-at-hgb-leipzig-tidal-cycles-live-coding-performance&#34;&gt;25midi Live at HGB Leipzig (Tidal Cycles Live Coding Performance)&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5ga0jdosdSM&amp;amp;t=80s&#34;&gt;Enlace al vídeo&lt;/a&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;&lt;source src=&#34;https://tusitio.com/videos/VideoTidal.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;Tu navegador no soporta el video.&#xA;&lt;/video&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;909-day-2023-tidal-jam&#34;&gt;909 Day 2023 Tidal Jam&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OtFurm2T7os&amp;amp;t=843s&#34;&gt;Enlace al vídeo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://res.cloudinary.com/dfcyzdul7/video/upload/v1739880476/VideoTidal1_g2o5i5.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;&#xA;&lt;h4 id=&#34;performance-de-live-coding-con-tidal-cycles&#34;&gt;Performance de live coding con Tidal Cycles&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fM6RHqnM59g&#34;&gt;Enlace al vídeo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;video width=&#34;800&#34; height=&#34;450&#34; controls&gt;&#xA;  &lt;source src=&#34;https://res.cloudinary.com/dfcyzdul7/video/upload/v1739879815/VideoTidal2_qzdbec.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Tu navegador no soporta el video.&#xA;&lt;/video&gt;</description>
+    </item>
+  </channel>
+</rss>
