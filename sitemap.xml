@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/maxmsp/</loc>
+    <loc>https://tusitio.com/posts/maxmsp/</loc>
     <lastmod>2025-02-16T20:19:11+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://tusitio.com/posts/</loc>
     <lastmod>2025-02-16T20:19:11+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://tusitio.com/</loc>
     <lastmod>2025-02-16T20:19:11+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gibber/</loc>
+    <loc>https://tusitio.com/posts/gibber/</loc>
     <lastmod>2025-02-16T13:18:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/foxdot/</loc>
+    <loc>https://tusitio.com/posts/foxdot/</loc>
     <lastmod>2025-02-14T05:19:29+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sonic-pi/</loc>
+    <loc>https://tusitio.com/posts/sonic-pi/</loc>
     <lastmod>2025-02-14T05:19:29+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/supercollider/</loc>
+    <loc>https://tusitio.com/posts/supercollider/</loc>
     <lastmod>2025-02-14T05:19:29+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tidalcycles/</loc>
+    <loc>https://tusitio.com/posts/tidalcycles/</loc>
     <lastmod>2025-02-14T05:19:29+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://tusitio.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://tusitio.com/tags/</loc>
   </url>
 </urlset>
